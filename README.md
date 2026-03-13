@@ -63,7 +63,19 @@ Instantly preview your portfolio while editing.
 ✔ Instant UI updates
 
 ---
+# 📸 Project Preview
 
+### Code Editor Interface
+
+Add your project screenshot here.
+
+Example:
+![Loading](image.png)
+![Home](image-1.png)
+![Template](image-2.png)
+![Blog](image-3.png)
+![Edit Your Portfolio](image-4.png)
+![Preview](<Screenshot 2026-03-13 124216.png>)
 ### 🧩 Complete Portfolio Sections
 
 DevFolio helps you build a **complete professional portfolio** including:
